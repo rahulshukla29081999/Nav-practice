@@ -1,0 +1,39 @@
+  .navbar{
+            background-color: aqua;/*back-color aqua*/
+            border-radius: 25px;/*styling the radius of border*/
+        
+        }
+        .navbar ul{
+            overflow:auto; }
+        
+        .navbar li{
+            float:left;/*links horizontally from the vertically*/
+            list-style:none;
+            padding: 3px 3px;
+            margin: 10px;
+        }
+        .navbar li a{
+            
+            text-decoration: none;/*removing the underline decoration from the links*/
+           
+        }
+        .navbar li a:hover{/*adding a hover color on the links*/
+            color: red;/*hover color is red*/
+            background-color: rgb(21, 164, 207);/*hover background*/
+        }
+        .search{
+            padding: 15px;
+            
+           
+        }
+        #search{
+            width: 800px;
+            height: 40px;
+            border-radius: 15px;
+            color: rgb(0, 118, 173);
+            background-color: rgb(2, 10, 12);
+        }
+      
+          
+        }
+   
